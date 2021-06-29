@@ -1,6 +1,6 @@
 # Development Tools
 
-Repository for storing my presentation, TeX and PDF files for HPC seminars on Makefiles, Software Installation, SPACK, Debugging and Profiling.
+Repository for storing my RMD, HTML, TeX and PDF files for seminars on Makefiles, Software Installation, SPACK, Debugging and Profiling.
 
 # Contributer
 Alex Pacheco  
