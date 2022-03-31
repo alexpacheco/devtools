@@ -2,9 +2,6 @@
 
 Repository for storing my RMD, HTML, TeX and PDF files for seminars on Makefiles, Software Installation, SPACK, Debugging and Profiling.
 
-* Bring Your Own Software to Sol & Hawk ( [RMD](byos.Rmd) | [HTML](byos.html) )
-* Debugging and Profiling ( [TeX](softdev.tex) | [PDF](softdev.pdf) )  
-
 # Contributer
 Alex Pacheco  
  Manager, Research Computing, Lehigh University (Sep. 2014 - Present)  
